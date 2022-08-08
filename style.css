@@ -1,0 +1,17 @@
+#login {
+    width: 320px;
+    height: 25px;
+    border: 1.3px solid;
+}
+#entrar {
+    width: 120px;
+    height: 25px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 15px;  
+}
+#provedor {
+    width: 217px;
+    height: 25px; 
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 15px;  
+}
