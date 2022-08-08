@@ -1,0 +1,45 @@
+.container {
+    font-family: 'Roboto';
+    color: #ffffff;
+    text-align: center;
+    margin: 1512 900;
+    background-color: rgb(15,15,15);
+    padding: 10px 25px 30px 25px;
+}
+.header {
+    font-style: normal;
+    line-height: 10px;
+}
+.gray {
+    color: rgb(203,203,203);
+}
+#text1 {
+    margin: 20px 0px 30px;
+}
+#login {
+    width: 308px;
+    height: 28px;
+    border: 1.3px solid;
+    background-color: #7F7F7F;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+#loginTitle {
+    font-size: 20px;
+    margin-right: 245px;
+}
+#entrar, #provedor {
+    font-size: 18px;
+    height: 30px;
+    border: 0px;
+    border-radius: 15px;
+    background-color: #8C77E0;
+    color: #F1EFFA;
+}
+#entrar {
+    width: 100px;
+    margin: 5px;
+}
+#provedor {
+    width: 200px;
+}
